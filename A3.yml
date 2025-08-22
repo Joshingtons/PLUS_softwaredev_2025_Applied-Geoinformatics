@@ -1,0 +1,12 @@
+name: healthmap-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - geopandas
+  - shapely
+  - matplotlib
+  - pandas
+  - fiona
+  - requests
+  - jupyter
